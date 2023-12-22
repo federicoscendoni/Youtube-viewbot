@@ -16,5 +16,3 @@ This project is licensed under [GNU General Public License](https://github.com/P
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
 </p>
-
-
